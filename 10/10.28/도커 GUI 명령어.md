@@ -1,4 +1,4 @@
-select count(* ) from ==테이블 이름==;    -->쳐서 잘 들어갔는지 개수 확인
+ select count(* ) from ==테이블 이름==;    -->쳐서 잘 들어갔는지 개수 확인
 
 select * from 테이블 이름 where 컬럼이름 = '앞 컬럼에 값'
 ![[Pasted image 20251028163656.png]]
