@@ -8,20 +8,49 @@
         "type": "tabs",
         "children": [
           {
-            "id": "48f681610ff45628",
+            "id": "b20ea9c9c3b53827",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "11.10/아토믹, 함수, 훅.md",
+                "file": "11.03/야물 스프링.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "아토믹, 함수, 훅"
+              "title": "야물 스프링"
+            }
+          },
+          {
+            "id": "a48e2cab6305fa77",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "11.03/야물 스프링.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "야물 스프링"
+            }
+          },
+          {
+            "id": "7d87523192de6ea7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "11.11/서버 생성.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "서버 생성"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -166,11 +195,34 @@
       "bases:새 베이스 생성하기": false
     }
   },
-  "active": "48f681610ff45628",
+  "active": "7d87523192de6ea7",
   "lastOpenFiles": [
+    "11.11/메세지 전송.md",
+    "11.11/넷플릭스 유레카(스프링 책 p.309).md",
+    "11.03/Pasted image 20251103155914.png",
+    "11.03/야물 스프링.md",
+    "11.12/호명.md",
+    "Pasted image 20251112125707.png",
+    "Pasted image 20251112125649.png",
+    "Pasted image 20251112122401.png",
+    "11.12/횡단 종단.md",
+    "11.12/무제.md",
+    "11.12/모듈, AOP.md",
+    "이미지/Pasted image 20251112101859.png",
+    "이미지/Pasted image 20251112121451.png",
+    "이미지/Pasted image 20251112111834.png",
+    "11.04/디자인 패턴 종류.md",
+    "11.11/서버 생성.md",
+    "이미지/Pasted image 20251111112736.png",
+    "11.11/키 생성.md",
+    "11.12",
+    "이미지/Pasted image 20251111174803.png",
+    "이미지/Pasted image 20251111171709.png",
+    "11.6/무제.md",
     "11.10/리액트 돔.md",
-    "11.10/큐 스택, ui실행.md",
     "11.10/아토믹, 함수, 훅.md",
+    "11.11",
+    "11.10/큐 스택, ui실행.md",
     "10/10.14/변수 상수 variable,constant.md",
     "10/10.14/메모.md",
     "10/10.14/객체지향 프로그래밍,DDD.md",
@@ -182,37 +234,14 @@
     "10/10.15/페이지 생성.md",
     "10/10.15/스트림!!.md",
     "10/10.16/식, 문, 단 차이, cpu.md",
-    "10/10.16/메모.md",
-    "10/10.16/디스크 메모리, 자바 타입.md",
-    "11.10/cli.md",
-    "11.7/리액트 DI.md",
-    "11.04/디자인 패턴 종류.md",
-    "11.5/Entitiy VO 삭제.md",
-    "11.5/스칼라 벡터, 어그리게이션.md",
-    "11.5/연관관계.md",
-    "10/10.29/테이블 구조.md",
-    "10/10.29/릴레이션쉽(스칼라, 벡터).md",
-    "10/10.31/프롬 조인 연결.md",
-    "11.03/Pasted image 20251103155914.png",
     "11.10",
     "11.7",
-    "이미지/1000036503 1.jpg",
-    "1000036503.jpg",
     "11.6",
     "11.5",
-    "이미지/Pasted image 20251104094545.png",
-    "이미지/Pasted image 20251104171947.png",
-    "이미지/Pasted image 20251104132033.png",
-    "이미지/Pasted image 20251104124633.png",
-    "이미지/Pasted image 20251104124620.png",
-    "이미지/Pasted image 20251104124606.png",
-    "이미지/Pasted image 20251104111449.png",
     "11.04",
     "11.03",
     "10",
     "10/10.31",
-    "무제.canvas",
-    "10/10.30",
-    "중요"
+    "무제.canvas"
   ]
 }
