@@ -4,53 +4,67 @@
     "type": "split",
     "children": [
       {
-        "id": "811c8b3703909610",
+        "id": "8ec09e87a90b6e81",
         "type": "tabs",
         "children": [
           {
-            "id": "b20ea9c9c3b53827",
+            "id": "97f89a5383ebe425",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "11.03/야물 스프링.md",
+                "file": "11.20/화면 코드 설명/! ===, == !.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "야물 스프링"
+              "title": "! ===, == !"
             }
           },
           {
-            "id": "a48e2cab6305fa77",
+            "id": "59e431811ec6cafd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "11.03/야물 스프링.md",
+                "file": "11.20/기능.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "야물 스프링"
+              "title": "기능"
             }
           },
           {
-            "id": "7d87523192de6ea7",
+            "id": "466061df40d5ba56",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "11.11/서버 생성.md",
+                "file": "11.20/미들웨어.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "서버 생성"
+              "title": "미들웨어"
+            }
+          },
+          {
+            "id": "8070f08670bf0923",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "11.20/스토어 슬라이스.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "스토어 슬라이스"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -195,53 +209,54 @@
       "bases:새 베이스 생성하기": false
     }
   },
-  "active": "7d87523192de6ea7",
+  "active": "8070f08670bf0923",
   "lastOpenFiles": [
-    "11.11/메세지 전송.md",
-    "11.11/넷플릭스 유레카(스프링 책 p.309).md",
-    "11.03/Pasted image 20251103155914.png",
+    "11.20/기능.md",
+    "11.20/화면 코드 설명/null undefined none.md",
+    "11.20/화면 코드 설명/코드 설명.md",
+    "11.20/미들웨어.md",
+    "11.20/스토어 슬라이스.md",
+    "11.20/화면 코드 설명/! ===, == !.md",
+    "11.18/도커 컴포즈 설명.md",
+    "11.20/화면 코드 설명",
+    "중요/! ===, == !.md",
+    "중요/윈도우+r.md",
+    "중요/!파이프라인 프롬폰트!.md",
+    "중요/용어.md",
+    "11.19/리덕스 flux.md",
+    "11.19/zustand 설치 전략.md",
+    "11.20",
+    "11.18/state props.md",
+    "11.18/이미지/Pasted image 20251118142011.png",
+    "11.19/이미지",
+    "10/10.23/CRUD.md",
+    "11.18/uri url.md",
+    "11.19",
+    "11.18/이미지/Pasted image 20251118115044.png",
+    "11.18/이미지/Pasted image 20251118120050.png",
+    "11.18/이미지/Pasted image 20251118115846.png",
+    "11.17/컨텍스트 비교.md",
+    "11.17/컴포넌트 컨테이너.md",
+    "WSL 이미지/3.png",
+    "WSL 이미지/2.png",
+    "WSL 이미지/1.png",
+    "11.13/이미지/1000036851.jpg",
+    "11.13/이미지/1000036845.jpg",
+    "11.13/책임 연결.md",
+    "11.13/도커 컴포즈.md",
+    "11.14/JPA 레포지토리.md",
+    "11.14/!유레카 에러 해결!.md",
     "11.03/야물 스프링.md",
-    "11.12/호명.md",
-    "Pasted image 20251112125707.png",
-    "Pasted image 20251112125649.png",
-    "Pasted image 20251112122401.png",
-    "11.12/횡단 종단.md",
-    "11.12/무제.md",
-    "11.12/모듈, AOP.md",
-    "이미지/Pasted image 20251112101859.png",
-    "이미지/Pasted image 20251112121451.png",
-    "이미지/Pasted image 20251112111834.png",
+    "11.03/이미지1.png",
+    "11.03/보안, @ArgsConstructor.md",
+    "11.03/마이크로서비스.md",
     "11.04/디자인 패턴 종류.md",
-    "11.11/서버 생성.md",
-    "이미지/Pasted image 20251111112736.png",
-    "11.11/키 생성.md",
-    "11.12",
-    "이미지/Pasted image 20251111174803.png",
-    "이미지/Pasted image 20251111171709.png",
-    "11.6/무제.md",
-    "11.10/리액트 돔.md",
-    "11.10/아토믹, 함수, 훅.md",
-    "11.11",
-    "11.10/큐 스택, ui실행.md",
-    "10/10.14/변수 상수 variable,constant.md",
-    "10/10.14/메모.md",
-    "10/10.14/객체지향 프로그래밍,DDD.md",
-    "10/10.14/폴더 자바 파일.md",
-    "10/10.14/화면 이동 컨트롤러.md",
-    "10/10.14/form.md",
-    "10/10.14/url.md",
-    "10/10.15/DTO,VO.md",
-    "10/10.15/페이지 생성.md",
-    "10/10.15/스트림!!.md",
-    "10/10.16/식, 문, 단 차이, cpu.md",
-    "11.10",
-    "11.7",
-    "11.6",
-    "11.5",
-    "11.04",
-    "11.03",
-    "10",
-    "10/10.31",
+    "11.04/이미지",
+    "11.11/이미지",
+    "11.12/이미지",
+    "11.13/이미지",
+    "11.14/이미지",
+    "11.18/이미지",
     "무제.canvas"
   ]
 }

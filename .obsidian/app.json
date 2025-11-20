@@ -2,5 +2,6 @@
   "newFileLocation": "root",
   "promptDelete": false,
   "spellcheck": false,
-  "autoPairMarkdown": false
+  "autoPairMarkdown": false,
+  "alwaysUpdateLinks": true
 }

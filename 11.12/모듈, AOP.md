@@ -17,6 +17,7 @@
 https://x.com/lab_zang/status/1988434068825141593 (<- X 참고)
 
 Aspect= 가만히 있다가 관심사가 생기면 움직임
+ㄴ> ==AOP의 크로스 커팅==
 
 Join Point 실행 가능한 지점 (메서드 호출, 예외 발생 등)
 → 예: public void save(User user) 호출 순간
@@ -26,6 +27,7 @@ Pointcut Join Point 중 실제 관심 있는 지점만 필터링
 
 Advice 실제 수행할 코드 (관심사 로직)
 → 예: “로깅”, “시간 측정”, “트랜잭션 시작/종료”
+ㄴ> ==AOP 사용할 프롬포트 할 때 어드바이스만 얘기 해주면 알아들음==
 
 Aspect
 Pointcut + Advice 의 조합/ Weaving Aspect를 실제 코드 실행 시점에 주입하는 과정
